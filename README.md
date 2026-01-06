@@ -1,6 +1,6 @@
-# 😃 Face Detection System using OpenCV
+#  Face Detection System using OpenCV
 
-## 📌 Overview
+##  Overview
 A basic computer vision project that detects human faces in real-time
 using OpenCV and Haar Cascade classifiers.
 
@@ -24,5 +24,5 @@ This project uses Haar Cascade classifiers provided by OpenCV for face detection
 ## ▶ How to Run
 ```bash
 pip install -r requirements.txt
-python face_detection.py(face.py)
+python face_detection.py
 
