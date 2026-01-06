@@ -1,6 +1,6 @@
-#  Face Detection System using OpenCV
+# 😃 Face Detection System using OpenCV
 
-##  Overview
+## 📌 Overview
 A basic computer vision project that detects human faces in real-time
 using OpenCV and Haar Cascade classifiers.
 
