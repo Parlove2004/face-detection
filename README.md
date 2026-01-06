@@ -5,11 +5,11 @@
 A basic computer vision project that detects human faces in real-time
 using OpenCV and Haar Cascade classifiers.
 
-## 🛠 Tech Stack
+##  Tech Stack
 - Python
 - OpenCV
 
-## ⚙ Features
+## Features
 - Real-time face detection via webcam
 - Face detection in images
 - Lightweight and fast execution
