@@ -25,4 +25,7 @@ This project uses Haar Cascade classifiers provided by OpenCV for face detection
 ```bash
 pip install -r requirements.txt
 python face_detection.py
+```markdown
+## 👨‍💻 Author
+Parlav Chauhan
 
