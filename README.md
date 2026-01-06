@@ -17,6 +17,10 @@ using OpenCV and Haar Cascade classifiers.
 ##  Learning Outcome
 - Understanding computer vision basics
 - Working with OpenCV
+
+- ##  Note
+This project uses Haar Cascade classifiers provided by OpenCV for face detection.
+
 - Real-time image processing
 
 ##  How to Run
